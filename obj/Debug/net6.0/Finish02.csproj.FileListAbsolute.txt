@@ -1,0 +1,15 @@
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\bin\Debug\net6.0\Finish02.exe
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\bin\Debug\net6.0\Finish02.deps.json
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\bin\Debug\net6.0\Finish02.runtimeconfig.json
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\bin\Debug\net6.0\Finish02.dll
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\bin\Debug\net6.0\Finish02.pdb
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.csproj.AssemblyReference.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.AssemblyInfoInputs.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.AssemblyInfo.cs
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.csproj.CoreCompileInputs.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.dll
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\refint\Finish02.dll
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.pdb
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\Finish02.genruntimeconfig.cache
+C:\Users\anjel\OneDrive\Рабочий стол\Контрольная\Finishwork\obj\Debug\net6.0\ref\Finish02.dll
